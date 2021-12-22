@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .contenedor{
     background-color: slategrey;
 display: flex;  
@@ -24,3 +25,25 @@ margin-right: 30px;}
 h1{color: rgb(103, 80, 187);
 display: inline-block;
 margin-left: 30rem;}
+=======
+body{box-sizing: border-box;
+padding: 0;
+margin: 0;
+background-color: #777;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    border:  2px solid rgb(5, 5, 5) ;
+}
+.navegador{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+.link{text-decoration: none;
+color: rgb(236, 226, 220);
+}
+.link:hover{color: salmon;
+transition-duration: 1.3s;}
+>>>>>>> adorno
