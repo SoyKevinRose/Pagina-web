@@ -1,0 +1,26 @@
+.contenedor{
+    background-color: slategrey;
+display: flex;  
+flex-direction: column; 
+justify-content: end; 
+
+}
+.hijo{
+    display: inline-block;
+
+margin-left: 30rem;
+    order: 3;
+    overflow: hidden;
+    width: 30rem;
+height: 30rem;
+background-color: red;}
+
+h1{margin: 3px}
+.hijo2{ 
+}
+.imagen{object-fit: cover;
+justify-content: center;
+margin-right: 30px;}
+h1{color: rgb(103, 80, 187);
+display: inline-block;
+margin-left: 30rem;}
